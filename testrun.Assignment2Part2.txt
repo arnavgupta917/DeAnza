@@ -1,0 +1,9 @@
+ * Arnav Gupta
+ * Class and Section : Su17 CIS D035A 61Z Java Programming
+ * Assignment Number : 1
+ * Due date : 07/14/17
+ * Date Submitted : 07/14/17
+
+Name = Jack Smith , Address =  246 Jack Way , Age = 16, Phone Number =  6501234567 
+Name = Justin White , Address =  7600 Justin Way , Age = 15, Phone Number =  4151234567 
+Name = John Park , Address =  8890 John Way , Age = 13, Phone Number =  4081234567 

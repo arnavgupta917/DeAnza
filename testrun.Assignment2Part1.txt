@@ -1,0 +1,29 @@
+ * Arnav Gupta
+ * Class and Section : Su17 CIS D035A 61Z Java Programming
+ * Assignment Number : 1
+ * Due date : 07/14/17
+ * Date Submitted : 07/14/17
+
+tossCount=0 sideup=heads
+tossCount=1 sideup=heads
+tossCount=2 sideup=tails
+tossCount=3 sideup=tails
+tossCount=4 sideup=tails
+tossCount=5 sideup=heads
+tossCount=6 sideup=tails
+tossCount=7 sideup=heads
+tossCount=8 sideup=heads
+tossCount=9 sideup=heads
+tossCount=10 sideup=tails
+tossCount=11 sideup=tails
+tossCount=12 sideup=tails
+tossCount=13 sideup=heads
+tossCount=14 sideup=heads
+tossCount=15 sideup=tails
+tossCount=16 sideup=heads
+tossCount=17 sideup=tails
+tossCount=18 sideup=heads
+tossCount=19 sideup=tails
+*****************************************
+Toss result headCount=10 twoCount=10
+*****************************************

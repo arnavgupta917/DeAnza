@@ -1,0 +1,12 @@
+Enter the store number : 3
+Enter the week : 2
+********* printResults for store *********
+Sales For Week =[3184.0, 3271.0, 3358.0, 3445.0, 3532.0, 3619.0, 3706.0]
+Total Sales For Week = 24115.0
+Avg Sales For Week =3445.0
+Total Sales for All Weeks=141957.52
+Average weekly sales =141957.52
+Week With Highest Sale Amt =5
+Week With Lowest Sale Amt =1
+
+Done Analyzing store data

@@ -1,0 +1,36 @@
+Arnav Gupta
+ * Class and Section : Su17 CIS D035A 61Z Java Programming
+ * Assignment Number : 1
+ * Due date : 07/09/17
+ * Date Submitted : 07/07/17
+
+Enter the loan amount : Enter the number of years : Enter the interest rate : Monthly Payment: 865.27
+
+Total Payment: 10383.21
+
+Payments#	Interest	Principal	Balance
+
+1		58.33		806.93		9193.07
+
+2		53.63		811.64		8381.42
+
+3		48.89		816.38		7565.05
+
+4		44.13		821.14		6743.91
+
+5		39.34		825.93		5917.98
+
+6		34.52		830.75		5087.24
+
+7		29.68		835.59		4251.65
+
+8		24.80		840.47		3411.18
+
+9		19.90		845.37		2565.81
+
+10		14.97		850.30		1715.51
+
+11		10.01		855.26		860.25
+
+12		5.02		860.25		0.00
+

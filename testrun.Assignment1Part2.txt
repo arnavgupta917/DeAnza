@@ -1,0 +1,10 @@
+Arnav Gupta
+ * Class and Section : Su17 CIS D035A 61Z Java Programming
+ * Assignment Number : 1
+ * Due date : 07/09/17
+ * Date Submitted : 07/07/17
+
+Enter a number between 0 and 100000 : 256
+
+Here is the square root of 256 = 16.00
+
