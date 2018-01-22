@@ -1,0 +1,16 @@
+* Arnav Gupta
+ * Class and Section : Su17 CIS D035A 61Z Java Programming
+ * Assignment Number : 6
+ * Due date : 08/02/17
+ * Date Submitted : 08/02/17
+
+Enter the student id : 1234
+
+Data from stream file for Student[id=1234] :  
+
+scores=		52	7	100	78	34	
+
+High Score :	100	100	100	90	80	
+Low Score : 	0	7	0	32	10	
+Avg Score: 	46	42	70	75	49	
+	

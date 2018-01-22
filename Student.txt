@@ -1,0 +1,11 @@
+CHEM Scores =		52	7	100	78	34	
+
+High Score :100	100	100	90	80	
+Low Score : 0	0	0	0	0	
+Avg Score: 	46	42	70	75	49	
+
+COMP Scores =		85	69	78	96	98	
+
+High Score :100	100	100	96	98	
+Low Score : 0	0	0	0	0	
+Avg Score: 	48	46	69	76	54	

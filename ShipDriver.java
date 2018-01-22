@@ -2,7 +2,7 @@
  * Arnav Gupta
  * Class and Section : Su17 CIS D035A 61Z Java Programming
  * Assignment Number : 4
- * Due date : 07/239/17
+ * Due date : 07/24/17
  * Date Submitted : 07/24/17
  */
 public class ShipDriver {

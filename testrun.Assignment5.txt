@@ -1,0 +1,25 @@
+* Arnav Gupta
+ * Class and Section : Su17 CIS D035A 61Z Java Programming
+ * Assignment Number : 5
+ * Due date : 07/27/17
+ * Date Submitted : 07/27/17
+
+Student[id=1234]Data=[[52, 7, 100, 78, 34]] 
+Student[id=2134]Data=[[90, 36, 90, 77, 30]] 
+Student[id=3124]Data=[[100, 45, 20, 90, 70]] 
+Student[id=4532]Data=[[11, 17, 81, 32, 77]] 
+Student[id=5678]Data=[[20, 12, 45, 78, 34]] 
+Student[id=6134]Data=[[34, 80, 55, 78, 45]] 
+Student[id=7874]Data=[[60, 100, 56, 78, 78]] 
+Student[id=8026]Data=[[70, 10, 66, 78, 56]] 
+Student[id=9893]Data=[[34, 9, 77, 78, 20]] 
+Student[id=1947]Data=[[45, 40, 88, 78, 55]] 
+Student[id=2877]Data=[[55, 50, 99, 78, 80]] 
+Student[id=3189]Data=[[22, 70, 100, 78, 77]] 
+Student[id=4602]Data=[[89, 50, 91, 78, 60]] 
+Student[id=5405]Data=[[11, 11, 0, 78, 10]] 
+Student[id=6999]Data=[[0, 98, 89, 78, 20]] 
+
+High Score : 	100	100	100	90	80	
+Low Score : 	0	7	0	32	10	
+Avg Score: 	46.00	42.00	70.00	75.00	49.00	
